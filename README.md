@@ -37,6 +37,10 @@ Each D flip-flop in the circuit has a Data (D) input, a Clock (CLK) input, and a
 
 5.For different input combinations generate the timing diagram.
 
+**TRUTH TABLE**
+
+![WhatsApp Image 2024-12-21 at 8 38 46 AM](https://github.com/user-attachments/assets/29e4e5e0-1a45-4152-a7ec-fdc0a69db395)
+
 **PROGRAM**
 
 /* Program for flipflops and verify its truth table in quartus using Verilog programming.
